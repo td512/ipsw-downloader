@@ -119,3 +119,75 @@ iPhone 11: iPhone12,1
 iPhone 11 Pro: iPhone12,3
 iPad 7 (Cellular): iPad7,12
 iPad 7 (WiFi): iPad7,11
+iBridge2,14: iBridge2,14
+iBridge2,4: iBridge2,4
+iBridge2,10: iBridge2,10
+iBridge2,5: iBridge2,5
+iBridge2,6: iBridge2,6
+iBridge2,15: iBridge2,15
+iBridge2,1: iBridge2,1
+iBridge2,7: iBridge2,7
+iBridge2,3: iBridge2,3
+iBridge2,8: iBridge2,8
+iBridge2,12: iBridge2,12
+iPad Pro 4 (12.9-inch, Cellular): iPad8,12
+iPad Pro 4 (11-inch, WiFi): iPad8,9
+iPad Pro 4 (12.9-inch, WiFi): iPad8,11
+iPad Pro 4 (11-inch, Cellular): iPad8,10
+iPhone SE (2020): iPhone12,8
+iBridge2,21: iBridge2,21
+iBridge2,16: iBridge2,16
+iBridge2,22: iBridge2,22
+iBridge2,20: iBridge2,20
+iBridge2,19: iBridge2,19
+iPad Air 4 (WiFi): iPad13,1
+iPad 8 (WiFi): iPad11,6
+iPad 8 (Cellular): iPad11,7
+iPhone 12: iPhone13,2
+iPad Air 4 (Cellular): iPad13,2
+iPhone 12 mini: iPhone13,1
+iPhone 12 Pro Max: iPhone13,4
+iPhone 12 Pro: iPhone13,3
+HomePod mini: AudioAccessory5,1
+MacBook Pro (M1, Late 2020): MacBookPro17,1
+MacBook Air (M1, Late 2020): MacBookAir10,1
+Developer Transition Kit: ADP3,2
+Mac Mini (M1, Late 2020): Macmini9,1
+iPad Pro (11-inch) (3rd generation): iPad13,6
+iPad Pro (12.9-inch) (5th generation): iPad13,10
+iMac 24-inch (M1, Two Ports, 2021): iMac21,1
+iMac 24-inch (M1, Four Ports, 2021): iMac21,2
+iPad 9 (WiFi): iPad12,1
+iPad 9 (Cellular): iPad12,2
+iPad Mini 6 (WiFi): iPad14,1
+iPad Mini 6 (Cellular): iPad14,2
+iPhone 13 Pro: iPhone14,2
+iPhone 13 Pro Max: iPhone14,3
+iPhone 13 mini: iPhone14,4
+iPhone 13: iPhone14,5
+MacBook Pro (M1 Max, 16-inch, 2021): MacBookPro18,2
+MacBook Pro (M1 Pro, 14-inch, 2021): MacBookPro18,3
+MacBook Pro (M1 Pro, 16-inch, 2021): MacBookPro18,1
+MacBook Pro (M1 Max, 14-inch, 2021): MacBookPro18,4
+iPad Air 5 (Cellular): iPad13,17
+iPhone SE (3rd generation): iPhone14,6
+iPad Air 5 (WiFi): iPad13,16
+Mac Studio (M1 Max): Mac13,1
+Mac Studio (M1 Ultra): Mac13,2
+Apple Virtual Machine 1: VirtualMac2,1
+MacBook Air (M2, 2022): Mac14,2
+MacBook Pro (13-inch, M2, 2022): Mac14,7
+iPhone 14: iPhone14,7
+iPhone 14 Plus: iPhone14,8
+iPhone 14 Pro: iPhone15,2
+iPhone 14 Pro Max: iPhone15,3
+iPad (10th generation): iPad13,19
+iPad Pro (11-inch) (4th generation): iPad14,4
+iPad Pro (12.9-inch) (6th generation): iPad14,6
+Mac mini (M2, 2023): Mac14,3
+MacBook Pro (M2 Max, 14-inch, 2023): Mac14,5
+MacBook Pro (M2 Max, 16-inch, 2023): Mac14,6
+MacBook Pro (M2 Pro, 14-inch, 2023): Mac14,9
+Mac mini (M2 Pro, 2023): Mac14,12
+MacBook Pro (M2 Pro, 16-inch, 2023): Mac14,10
+HomePod (2nd generation): AudioAccessory6,1

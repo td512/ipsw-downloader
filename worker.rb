@@ -37,6 +37,7 @@ else
   # You get the idea...
   device_identifiers.each do |device, ident|
     # For each device we need to poll the IPSW.me API
+    puts "Processing #{device} as #{ident}"
     uri = URI("https://api.ipsw.me/v4/device/#{ident}?type=ipsw")
     response = Net::HTTP.get_response(uri)
   
